@@ -1,0 +1,2 @@
+vscode扩展输入python安装python插件，左下角是电脑中安装的python解释器，点击可选择不同python版本
+vscode中使用alt+shift+f安装pep8可以在以后的代码编写中自动调整代码格式
